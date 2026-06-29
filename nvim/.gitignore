@@ -1,0 +1,10 @@
+tags
+test.sh
+.luarc.json
+nvim
+
+spell/
+
+# lazy-lock.json is tracked so plugin versions are reproducible across machines
+
+.DS_Store
